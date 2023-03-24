@@ -6,7 +6,9 @@ import (
 )
 
 func main() {
-	name := "first-unique-character-in-a-string"
+	fmt.Println("please input name:")
+	var name string
+	_, _ = fmt.Scanf("%s", &name)
 	replaceName(name)
 }
 
