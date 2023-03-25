@@ -1,4 +1,4 @@
-package there_duplicate_elements
+package contains_duplicate
 
 func containsDuplicate(nums []int) bool {
 	m := make(map[int]bool)

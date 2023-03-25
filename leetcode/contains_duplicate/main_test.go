@@ -1,4 +1,4 @@
-package there_duplicate_elements
+package contains_duplicate
 
 import "testing"
 
