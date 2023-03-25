@@ -11,6 +11,7 @@
 - [387. 字符串中的第一个唯一字符](first_unique_character_in_a_string/main.go) | [origin](https://leetcode.cn/problems/first-unique-character-in-a-string/)
 - [383. 赎金信](ransom_note/main.go) | [origin](https://leetcode.cn/problems/ransom-note/)
 - [242. 有效的字母异位词](valid_anagram/main.go) | [origin](https://leetcode.cn/problems/valid-anagram/)
+- [141. 环形链表](linked_list_cycle/main.go) | [origin](https://leetcode.cn/problems/linked-list-cycle/description/)
 
 ## Medium
 
