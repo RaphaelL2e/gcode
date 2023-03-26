@@ -12,6 +12,8 @@
 - [383. 赎金信](ransom_note/main.go) | [origin](https://leetcode.cn/problems/ransom-note/)
 - [242. 有效的字母异位词](valid_anagram/main.go) | [origin](https://leetcode.cn/problems/valid-anagram/)
 - [141. 环形链表](linked_list_cycle/main.go) | [origin](https://leetcode.cn/problems/linked-list-cycle/description/)
+- [21. 合并两个有序链表](merge_two_sorted_lists/main.go) | [origin](https://leetcode.cn/problems/merge-two-sorted-lists/)
+- [203. 移除链表元素](remove_linked_list_elements/main.go) | [origin](https://leetcode.cn/problems/remove-linked-list-elements/)
 
 ## Medium
 
