@@ -15,6 +15,7 @@
 - [21. 合并两个有序链表](merge_two_sorted_lists/main.go) | [origin](https://leetcode.cn/problems/merge-two-sorted-lists/)
 - [203. 移除链表元素](remove_linked_list_elements/main.go) | [origin](https://leetcode.cn/problems/remove-linked-list-elements/)
 - [206. 反转链表](reverse_linked_list/main.go) | [origin](https://leetcode.cn/problems/reverse-linked-list/)
+- [83. 删除排序链表中的重复元素](remove_duplicates_from_sorted_list/main.go) | [origin](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)
 
 ## Medium
 
